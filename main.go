@@ -6,4 +6,5 @@ func main() {
     loop()
 
 	fmt.Println("Branching")
+	Branching()
 }
