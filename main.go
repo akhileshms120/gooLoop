@@ -7,4 +7,7 @@ func main() {
 
 	fmt.Println("Branching")
 	Branching()
+
+	fmt.Println("OOps")
+	Oops()
 }
